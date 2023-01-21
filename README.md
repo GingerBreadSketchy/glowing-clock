@@ -1,2 +1,2 @@
 # glowing-clock
-Glowing clock via html/css
+Glowing clock via html/css/js
